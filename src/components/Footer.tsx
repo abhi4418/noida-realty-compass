@@ -107,7 +107,7 @@ const Footer = () => {
               <li>Sector 122, Noida</li>
               <li>Uttar Pradesh, India</li>
               <li className="pt-2">+91 9818228017</li>
-              <li>noidarealtors.py@gmail.com</li>
+                <li><a href="mailto:noidarealtors.py@gmail.com" className="hover:text-accent transition-colors">noidarealtors.py@gmail.com</a></li>
             </ul>
           </div>
         </div>
