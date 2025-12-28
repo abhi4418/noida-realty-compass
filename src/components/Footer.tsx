@@ -98,8 +98,8 @@ const Footer = () => {
             <ul className="space-y-3 text-sm text-primary-foreground/70">
               <li>Sector 122, Noida</li>
               <li>Uttar Pradesh, India</li>
-              <li className="pt-2">+91 98765 43210</li>
-              <li>info@noidarealtors.com</li>
+              <li className="pt-2">+91 9818228017</li>
+              <li>noidarealtors.py@gmail.com</li>
             </ul>
           </div>
         </div>
